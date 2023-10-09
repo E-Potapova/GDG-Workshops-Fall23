@@ -1,5 +1,5 @@
 # GDG Unity Workshops
-<img src="./GDG-logo.png">
+<img src="./GDG-logo.png" width="50%">
 
 This repo contains all recources and materials needed to participate in the Unity Workshops! (◌˘◡˘◌)
 
