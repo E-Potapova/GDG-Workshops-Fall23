@@ -17,11 +17,14 @@
         - 'Mac Build Support' for Macs, etc.
     - Documentation
     <img src="install-visual-studio.png" width="70%">
+
     <img src="install-build-support.png" width="70%">
+
     <img src="install-documentation.png" width="70%">
 
 5. Sign into your account in Unity Hub
     <img src="sign-in.png" width="70%">
+    
     - If no pop-up showed earlier, you might have a banner at the top telling you to Mange License
     - Select the Personal license
 
