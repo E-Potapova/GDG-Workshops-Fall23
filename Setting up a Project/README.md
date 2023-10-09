@@ -4,7 +4,10 @@ I assume that you have [Unity installed](./../Installing%20Unity/README.md) and 
 You can easily join a workshop without doing the previous ones by following these steps:
 
 1. Download `Assets.zip` from the specific workshop folder
-    - Click into the workshop folder, click into `Assets.zip`, click on the download icon on the right
+    - Click into the workshop folder, click into `Assets.zip`
+    <img src="assets-zip.png">
+    - Click on the download icon on the right
+    <img src="download.png">
     - Unzip the file on your computer somewhere, it should create an 'Assets' folder with sub-folders named 'Scenes', 'Scripts', 'Sprites', etc.
 1. Create a new 2D Project
     - Go to 'Projects' tab on the left, then 'New Project' in top-right

@@ -1,6 +1,7 @@
 # Installing & Setting Up Unity
 1. Sign up for a [Unity ID](https://id.unity.com/)
 <img src="sign-up.png">
+
 2. [Download](https://unity.com/download) the Unity Hub for your computer software
     - Accept the Personal license/version when pop-up prompts
 
