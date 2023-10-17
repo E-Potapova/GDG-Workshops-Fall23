@@ -4,8 +4,9 @@
 This repo contains all recources and materials needed to participate in the Unity Workshops! (◌˘◡˘◌)
 
 There are individual folders for each Workshop, with individual descriptions:
-- [Workshop: Basics](1%20Basics/)
-- [Workshop: Programming](2%20Programming/)
+- [Workshop: Basics](./1%20Basics/)
+- [Workshop: Programming](./2%20Programming/)
+- [Workshop: Art](./3%20Art/)
 
 Each folder contains individual assets used as well as an `Assets.zip` that you can import into a brand-new 2D Project. 
 
