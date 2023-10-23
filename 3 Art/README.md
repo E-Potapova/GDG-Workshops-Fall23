@@ -4,7 +4,7 @@ In this workshop, we learn to import and set up art sprites, animations, and til
 Come back later for workshop recording and slides!
 
 ### Assets Provided
-- [`Pixel-Art-Sprites.zip`]()
+- [`Pixel-Art-Sprites.zip`](./Pixel-Art-Sprites.zip)
     - A folder containing the following sprites that we will use:
         - `clouds_sheet.png`: Four variations of clouds within one image
         - `enemy.png`: One sprite for our enemy
