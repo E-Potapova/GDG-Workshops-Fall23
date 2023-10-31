@@ -7,6 +7,7 @@ There are individual folders for each Workshop, with individual descriptions:
 - [Workshop: Basics](./1%20Basics/)
 - [Workshop: Programming](./2%20Programming/)
 - [Workshop: Art](./3%20Art/)
+- [Workshop: Menus & Timers](./4%20Menus,%20Timers/)
 
 Each folder contains individual assets used as well as an `Assets.zip` that you can import into a brand-new 2D Project. 
 
