@@ -1,7 +1,7 @@
 # Unity Workshop: Art
-In this workshop, we learn to import and set up art sprites, animations, and tile maps. No coding done! (Well, very minimal coding...)
+See [recording](https://youtu.be/PzkZE63R-3w) and [slides](https://docs.google.com/presentation/d/1rO9uPHVs_EtCBU5d4NAMTIS-wCSUHQUT9YNYmObNHT4/edit?usp=sharing).
 
-Come back later for workshop recording and slides!
+In this workshop, we learn to import and set up pixel art sprites, tile maps, and animations. No coding done! (Well, very minimal coding...)
 
 ### Assets Provided
 - [`Pixel-Art-Sprites.zip`](./Pixel-Art-Sprites.zip)
