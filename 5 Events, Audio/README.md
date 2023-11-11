@@ -1,7 +1,7 @@
 # Unity Workshop: Events & Audio
-In this workshop, we learn how to program Unity events for inter-object communication, talking about object-oriented programming practices, as well as setting up a simple audio system with our sound effect clips, and hopefully actually making a simple menu system!
+See [recording](https://youtu.be/lfS5MH_LoBkhttps://youtu.be/lfS5MH_LoBk) and [slides](https://docs.google.com/presentation/d/1hzKqj6YPZzFYOu1_Wsflzjt5p1r44T-LO9AxWwtETEw/edit?usp=sharing).
 
-Come back later for workshop recording and slides!
+In this workshop, we learn how to program Unity events for inter-object communication, talking about object-oriented programming practices, as well as setting up a simple audio system with our sound effect clips, and hopefully actually making a simple menu system!
 
 ### Assets Provided
 - [`SFX.zip`](SFX.zip)
