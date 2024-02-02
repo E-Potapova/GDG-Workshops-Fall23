@@ -7,14 +7,14 @@
 
 3. Install latest Long Term Support (LTS) version
     - Accept pop-up in initial installer
-    - As of now that is 2022.3.10f.1
+    - As of now that is 2022.3.19f1
     - Older version of Unity work just fine for these Workshops as well
     - Can install other versions at any time from the Unity Hub
 
 4. During installation, select these options:
     - Visual Studio
     - Plain Build Support for your computer software
-        - 'Mac Build Support' for Macs, etc.
+        - 'Mac Build Support' for Macs, 'Windows Build Support (Mono)' for Windows, 'Linux Build Support (Mono)' for Linux, etc.
     - Documentation
     <img src="install-visual-studio.png" width="70%">
 
@@ -31,5 +31,5 @@
 
 
 
-At the end, your Unity Hub should look something like this.  Yours would only have one Editor installed, with version 2022.3.10f.1, but you should be able to see 'Add modules' when clicking the gear icon on the right. （●´∀｀）ノ♡
+At the end, your Unity Hub should look something like this.  Yours would only have one Editor installed, with version 2022.3.19f1, but you should be able to see 'Add modules' when clicking the gear icon on the right. （●´∀｀）ノ♡
 <img src="complete-install.png" width="70%">
